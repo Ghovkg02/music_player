@@ -42,19 +42,19 @@ const music_list = [
     {
         img : 'images/taazasamachara.png',
         name : 'Taaza Samachara',
-        artist : 'Clean Bandit',
+        artist : 'D Imman',
         music : 'music/song5.mp3'
     },
     {
         img : 'images/beyours.png',
         name : 'I Wanna Be Yours',
-        artist : 'Clean Bandit',
+        artist : 'Arctic Monkeys',
         music : 'music/song6.mp3'
     },
     {
         img : 'images/pehle.png',
         name : 'Pehle Bhi Main',
-        artist : 'Clean Bandit',
+        artist : 'Vishal Mishra',
         music : 'music/song3.mp3'
     }
 ];
